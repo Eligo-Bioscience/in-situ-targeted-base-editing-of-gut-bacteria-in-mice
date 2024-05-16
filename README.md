@@ -1,4 +1,4 @@
-# In situ targeted mutagenesis of gut bacteria
+# In situ targeted base editing of gut bacteria in mice
 
 ## Repository organisation
 - [16S.ipynb](./16S.ipynb): _in vivo_ 16S data analysis
