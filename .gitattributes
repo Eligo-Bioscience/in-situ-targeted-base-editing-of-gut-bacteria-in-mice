@@ -1,0 +1,9 @@
+*.parquet.gzip filter=lfs diff=lfs merge=lfs -text
+*.fna filter=lfs diff=lfs merge=lfs -text
+*.gbk filter=lfs diff=lfs merge=lfs -text
+*.gff filter=lfs diff=lfs merge=lfs -text
+*.gff3 filter=lfs diff=lfs merge=lfs -text
+*.bed filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
